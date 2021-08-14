@@ -1,6 +1,6 @@
 # Matplotlib-challenge
 Matplotlib Homework - The Power of Plots
-......
+.....
 Assuming I am a senior data analyst at Pymaceutical company, I have been tasked by the executive team to generate tables and figures needed in order to compare the performance of our drug of interest, Capomulin, versus the other treatment regimens. I have been given access to the complete data from our most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. 
 
 Here is an overview of my process:
